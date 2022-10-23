@@ -4,25 +4,25 @@ public class SafariWebDriver implements RemoteWebDriver {
     @Override
     public void navigate()
     {
-        System.out.println("Test navigate method");
+        System.out.println(" Safari navigate method");
     }
 
     @Override
     public void getScreenshot()
     {
-        System.out.println("Test getScreenshot method");
+        System.out.println(" Safari getScreenshot method");
     }
 
     @Override
     public void open()
     {
-        System.out.println("Test open method");
+        System.out.println(" Safari  open method");
     }
 
     @Override
     public void close()
     {
-        System.out.println("Test close method");
+        System.out.println(" Safari close method");
     }
 
     @Override
